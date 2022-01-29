@@ -36,6 +36,10 @@ img {
     z-index: 100;
 }
 
+.lista-sm {
+    display: block;
+}
+
 #navbar li {
     float: left;
 }
@@ -154,7 +158,7 @@ img {
         width: auto;
         padding: 0;
     }
-    #navbar ul {
+    .lista-sm {
         display: none;
     }
     #navbar li {
